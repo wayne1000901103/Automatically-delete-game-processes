@@ -5,6 +5,30 @@
 
 ---
 
+📚 索引
+
+1. 📌 功能
+
+
+2. 🎯 支援的遊戲進程
+
+
+3. 🔧 使用方式
+
+
+4. ⚠ 注意事項
+
+
+5. 📢 常見問題 (FAQ)
+
+
+6. 📌 開發資訊
+
+
+
+
+---
+
 📌 功能
 
 ✅ 自動監控：每秒檢測一次目標進程是否運行。
@@ -84,7 +108,7 @@ Windows 10 / 11 用戶直接執行 Project3.exe。
 
 開發語言：C (WinAPI)
 
-最新版本：點此下載 (https://github.com/wayne1000901103/Automatically-delete-game-processes/releases)
+最新版本：👉 點此下載
 
 
 📢 有任何問題？歡迎提交 GitHub Issues！ 🚀
