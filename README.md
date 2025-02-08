@@ -84,7 +84,7 @@ Windows 10 / 11 用戶直接執行 Project3.exe。
 
 開發語言：C (WinAPI)
 
-最新版本：點此下載 (請填入 GitHub 下載連結)
+最新版本：點此下載 (https://github.com/wayne1000901103/Automatically-delete-game-processes/releases)
 
 
 📢 有任何問題？歡迎提交 GitHub Issues！ 🚀
