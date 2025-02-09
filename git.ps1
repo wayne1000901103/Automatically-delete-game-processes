@@ -19,6 +19,17 @@ if ($?) {
     exit
 }
 
+# 拉取远程更新并尝试合并
+git pull origin master
+
+# 检查拉取是否成功
+if ($?) {
+    Write-Host "拉取成功！"
+} else {
+    Write-Host "拉取失败，请检查冲突！"
+    exit
+}
+
 # 推送更改到远程仓库的 master 分支
 git push origin master
 
