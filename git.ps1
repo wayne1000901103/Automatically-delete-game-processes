@@ -1,6 +1,13 @@
 ﻿# 显示当前 Git 状态
 git status
 
+# 检查是否有更改需要提交
+$gitStatus = git status --porcelain
+if ($gitStatus -eq "") {
+    Write-Host "没有需要提交的更改，脚本结束。"
+    exit
+}
+
 # 添加所有更改到暂存区
 git add .
 
