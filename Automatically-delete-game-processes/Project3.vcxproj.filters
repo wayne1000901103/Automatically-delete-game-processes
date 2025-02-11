@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="killer.c">
+    <ClCompile Include="run_killer.c">
       <Filter>來源檔案</Filter>
     </ClCompile>
   </ItemGroup>
