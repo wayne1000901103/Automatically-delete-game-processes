@@ -41,7 +41,19 @@ int main() {
         "steamxboxutil.exe",
         "steam.exe",
         "steamservice.exe",
-        "Install-GooglePlayGames-Beta.exe"
+        "Install-GooglePlayGames-Beta.exe",
+        "Plain Craft Launcher 2",
+        "MinecraftInstaller.exe",
+        "xgamehelper.exe",
+        "xgamecontrol.exe",
+        "tcui-app.exe",
+        "gamingservicesui.exe",
+        "gamingservicestcui.exe",
+        "gamingservicesnet.exe",
+        "gamingservices.exe",
+        "gamelaunchhelper.exe",
+        "gsstub.exe",
+        "createdump.exe"
     };
 
     // 顯示當前運行的進程
