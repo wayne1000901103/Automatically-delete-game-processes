@@ -14,13 +14,15 @@
 以下是此程式會檢查並終止的遊戲進程：
 
 - Roblox
-- ZenlessZoneZero.exe
-- StarRail.exe
-- GenshinImpact.exe
-- BH3.exe
-- HYP.exe
+- ZenlessZoneZero
+- StarRail
+- GenshinImpact
+- BH3
+- HYP
 - steam
-- GooglePlayGames.exe
+- GooglePlayGames
+- PCL2
+- Minecraft
 
 ## 使用方法
 
